@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: udemy-rsmortgage-service-discovery-eureka-ha
